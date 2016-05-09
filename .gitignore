@@ -22,5 +22,5 @@ META-INF
 project
 out
 target
-*/target/*
+*/target/**
 
